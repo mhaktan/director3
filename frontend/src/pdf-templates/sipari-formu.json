@@ -1,11 +1,11 @@
 {
-  "id": "report-purchaseOrder-1789245259123",
+  "id": "report-purchaseOrder-1789245997874",
   "name": "Sipariş Formu",
   "orientation": "portrait",
   "pageSize": "a4",
   "elements": [
     {
-      "id": "pdf-mtyufhpv-14",
+      "id": "pdf-mtyuvbqq-14",
       "type": "header",
       "x": 20,
       "y": 25,
@@ -18,7 +18,7 @@
       }
     },
     {
-      "id": "pdf-mtyufhpv-15",
+      "id": "pdf-mtyuvbqq-15",
       "type": "divider",
       "x": 20,
       "y": 39,
@@ -29,7 +29,7 @@
       }
     },
     {
-      "id": "pdf-mtyufhpv-16",
+      "id": "pdf-mtyuvbqq-16",
       "type": "textbox",
       "x": 20,
       "y": 45,
@@ -42,7 +42,7 @@
       }
     },
     {
-      "id": "pdf-mtyufhpv-17",
+      "id": "pdf-mtyuvbqq-17",
       "type": "textbox",
       "x": 20,
       "y": 56,
@@ -55,7 +55,7 @@
       }
     },
     {
-      "id": "pdf-mtyufhpv-18",
+      "id": "pdf-mtyuvbqq-18",
       "type": "textbox",
       "x": 20,
       "y": 66,
@@ -68,7 +68,7 @@
       }
     },
     {
-      "id": "pdf-mtyufhpv-19",
+      "id": "pdf-mtyuvbqq-19",
       "type": "textbox",
       "x": 20,
       "y": 76,
@@ -81,7 +81,7 @@
       }
     },
     {
-      "id": "pdf-mtyufhpv-20",
+      "id": "pdf-mtyuvbqq-20",
       "type": "textbox",
       "x": 20,
       "y": 86,
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": "pdf-mtyufhpv-21",
+      "id": "pdf-mtyuvbqq-21",
       "type": "textbox",
       "x": 20,
       "y": 96,
@@ -107,7 +107,7 @@
       }
     },
     {
-      "id": "pdf-mtyufhpv-22",
+      "id": "pdf-mtyuvbqq-22",
       "type": "textbox",
       "x": 20,
       "y": 106,
@@ -120,7 +120,7 @@
       }
     },
     {
-      "id": "pdf-mtyufhpv-23",
+      "id": "pdf-mtyuvbqq-23",
       "type": "textbox",
       "x": 20,
       "y": 116,
